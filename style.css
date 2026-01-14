@@ -1,0 +1,12 @@
+﻿.Titles {
+	font-family: "Barloesius Schrift";
+	src: url("fonts/Prequell.ttf") format("TrueType");
+	font-size: xx-large;
+	color: #FFFFFF;
+}
+.BodyText {
+	font-family: "Caslon Antique";
+	src: url("fonts/If You Have Ghost.ttf") format("TrueType");
+	font-size: x-large;
+	color: #FFFFFF;
+}
